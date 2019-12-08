@@ -1,6 +1,13 @@
 django-flatblocks
 =================
 
+.. attention::
+
+   This project is no longer maintained. Please take a look at
+   `jazzband/django-flatblocks
+   <https://github.com/jazzband/django-flatblocks/>`_ for a more
+   up-to-date version!
+
 django-flatblocks is a simple application for handling small text-blocks on
 websites. Think about it like ``django.contrib.flatpages`` just not for a 
 whole page but for only parts of it, like an information text describing what
